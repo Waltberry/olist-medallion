@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+
+# Virtual envs
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+
+# Data & artifacts
+data/raw/
+data/bronze/
+data/silver/
+data/gold/
+tmp/
+logs/
+
+# Spark / Delta / Parquet
+*.parquet
+spark-warehouse/
+metastore_db/
+
+# OS files
+.DS_Store
+Thumbs.db
