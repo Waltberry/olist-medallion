@@ -24,6 +24,8 @@ data/silver/
 data/gold/
 tmp/
 logs/
+derby.log
+
 
 # Spark / Delta / Parquet
 *.parquet

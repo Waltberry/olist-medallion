@@ -13,7 +13,7 @@ Notes:
   account and have accepted the dataset terms. If you see auth/permission
   errors, configure your Kaggle account/API as per Kaggle docs.
 """
-
+# src/ingest/download_brazilian_ecommerce.py
 from pathlib import Path
 import shutil
 import zipfile
